@@ -2,8 +2,8 @@ package school.mjc.stage0.module3.task4;
 
 public class FormulaCreator {
     public static void main(String[] args) {
-        double a = 9; // Represents the variable a
-        double b = 5; // Represents the variable b
+        double a = 1; // Represents the variable a
+        double b = 2; // Represents the variable b
 
 
         // Calculate the formula
